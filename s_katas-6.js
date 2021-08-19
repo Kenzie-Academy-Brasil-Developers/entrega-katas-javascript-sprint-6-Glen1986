@@ -7,7 +7,7 @@ const add = (x, y) => x + y;
  * 2. If a function only has one argument, you can exclude the parentheses.
  *    Convert this to an arrow function that takes advantage of that.
  */
-const increment = (number) => number + 1;
+const increment = number => number + 1;
 
 
 /* 
